@@ -1,0 +1,19 @@
+Bom dia, Edinei
+
+Devido as várias tentativas incompletas do formulário o nosso Jurídico demorou para analisar.
+
+Segue o link da SDK (API) da linha 8x SF ( Primme sf Acesso, Catraca SF, Argos, Totem, Estacionamento)  com exemplo em delphi e Java:
+ 
+
+   - https://www.dropbox.com/s/4ojp0jvoqmyoj1u/exemplos%20delphi%20e%20java%20da%20linha%208x.zip?dl=0
+   - Link cliente 8x -> https://www.dropbox.com/s/t86yd1156da6q0g/prjCliente8X.exe?dl=0
+   - Python - https://pypi.org/project/ArgosSDK/
+
+ Caso necessitar de um auxílio, podemos agendar com o nosso Engenheiro Técnico responsável.
+Onde iremos analisar na agenda qual o melhor dia para atender, sendo os horários disponíveis:
+(09h30 e 14h)
+
+ Caso tenha interesse também, podemos disponibilizar um equipamento para teste pelo período de 28 dias,
+do qual a sua empresa iria dispor apenas o valor do frete. Caso tenha interesse, por gentileza,
+pode retornar esse e-mail que te explico como funciona bem certinho.
+
